@@ -1,0 +1,26 @@
+ [
+     {
+         "name": "Home",
+         "url": "/",
+         "class": "fa fa-home",
+         "file": "index"
+        },
+     {
+         "name": "API",
+         "url": "/sensor_data",
+         "class": "fa fa-files-o",
+         "file": "api"
+        },
+     {
+         "name": "Stats",
+         "url": "/stats",
+         "class": "fa fa-bar-chart-o",
+         "file": "stats"
+        },
+     {
+         "name": "Charts (Legacy)",
+         "url": "/charts.html",
+         "class": "fa fa-bar-chart-o",
+         "file": ""
+        }
+ ]
